@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/12/20 19:21:40.749,=C:\Users\cienc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 19:33:36.778,C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\src\diversos.sorteador.view.principal.pas=C:\Users\cienc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 19:33:36.794,C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\src\diversos.sorteador.view.principal.dfm=C:\Users\cienc\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/12/20 19:33:55.215,C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\pj\Sorteador.dproj=C:\Users\cienc\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/12/20 19:47:40.650,=C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\pj\Unit1.pas</Transaction>
+    <Transaction>2022/12/20 19:48:02.155,C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\src\diversos.sorteador.classe.sorteio.pas=C:\Users\cienc\OneDrive\Documentos\Projetos\diversos\Sorteador\pj\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
